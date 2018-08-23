@@ -1,15 +1,15 @@
 .metadata
-bin/
-tmp/
+*/bin/
+*/tmp/
 *.tmp
 *.bak
 *.swp
 *~.nib
 *.DS_Store
 local.properties
-.settings/
-.loadpath
-.recommenders
+*.settings/
+*.loadpath
+*.recommenders
 
 # External tool builders
 .externalToolBuilders/
